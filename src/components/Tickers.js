@@ -39,6 +39,11 @@ class Tickers extends Component {
       };
     }
 
+    componentDidMount() {
+        this.fetchCryptocurrencyData();
+        this.interval = setInterval(() => this.fetchCryptocurrencyData(), 60 * 1000);
+    }
+
     fetchCryptocurrencyData() {
             axios.get("https://api.coinmarketcap.com/v1/ticker/?limit=10")
                 .then(response => {
@@ -49,10 +54,6 @@ class Tickers extends Component {
                 .catch(err => console.log(err));
         }
 
-      componentDidMount() {
-          this.fetchCryptocurrencyData();
-          this.interval = setInterval(() => this.fetchCryptocurrencyData(), 60 * 1000);
-      }
 
   render(){
     var tickers = this.state.data.map((currency) =>
