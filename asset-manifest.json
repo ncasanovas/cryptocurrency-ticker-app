@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2237f1cd.chunk.css",
-    "main.js": "/static/js/main.27f764a8.chunk.js",
-    "main.js.map": "/static/js/main.27f764a8.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.f6eb4236.js",
-    "runtime~main.js.map": "/static/js/runtime~main.f6eb4236.js.map",
-    "static/js/2.5035c567.chunk.js": "/static/js/2.5035c567.chunk.js",
-    "static/js/2.5035c567.chunk.js.map": "/static/js/2.5035c567.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fd5051f952a90e3b5c0281f9df3bd94d.js": "/precache-manifest.fd5051f952a90e3b5c0281f9df3bd94d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2237f1cd.chunk.css.map": "/static/css/main.2237f1cd.chunk.css.map"
+    "main.css": "/cryptocurrency-ticker-app/static/css/main.2237f1cd.chunk.css",
+    "main.js": "/cryptocurrency-ticker-app/static/js/main.32b805e4.chunk.js",
+    "main.js.map": "/cryptocurrency-ticker-app/static/js/main.32b805e4.chunk.js.map",
+    "runtime~main.js": "/cryptocurrency-ticker-app/static/js/runtime~main.9c57aadb.js",
+    "runtime~main.js.map": "/cryptocurrency-ticker-app/static/js/runtime~main.9c57aadb.js.map",
+    "static/js/2.5035c567.chunk.js": "/cryptocurrency-ticker-app/static/js/2.5035c567.chunk.js",
+    "static/js/2.5035c567.chunk.js.map": "/cryptocurrency-ticker-app/static/js/2.5035c567.chunk.js.map",
+    "index.html": "/cryptocurrency-ticker-app/index.html",
+    "precache-manifest.4f1c7684ef240c5a4fd553f4134af5b5.js": "/cryptocurrency-ticker-app/precache-manifest.4f1c7684ef240c5a4fd553f4134af5b5.js",
+    "service-worker.js": "/cryptocurrency-ticker-app/service-worker.js",
+    "static/css/main.2237f1cd.chunk.css.map": "/cryptocurrency-ticker-app/static/css/main.2237f1cd.chunk.css.map"
   }
 }
